@@ -132,6 +132,8 @@ function Hero() {
         <p>
           BCA Graduate | MERN Developer
         </p>
+        
+       
 
         <button>Download Resume</button>
 
