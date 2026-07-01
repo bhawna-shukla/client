@@ -44,12 +44,12 @@ function Contact() {
 
           <div className="info">
             <FaEnvelope className="contact-icon" />
-            <span>yourgmail@gmail.com</span>
+            <span>shuklabhawna81@gmail.com</span>
           </div>
 
           <div className="info">
             <FaPhoneAlt className="contact-icon" />
-            <span>+91 XXXXX XXXXX</span>
+            <span>+91 7652898661</span>
           </div>
 
           <div className="info">
@@ -59,11 +59,11 @@ function Contact() {
 
           <div className="social-icons">
 
-            <a href="https://github.com/yourusername" target="_blank" rel="noreferrer">
+            <a href="https://github.com/bhawna-shukla" target="_blank" rel="noreferrer">
               <FaGithub />
             </a>
 
-            <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer">
+            <a href="https://www.linkedin.com/in/bhawna-shukla-860b83305/" target="_blank" rel="noreferrer">
               <FaLinkedin />
             </a>
 
