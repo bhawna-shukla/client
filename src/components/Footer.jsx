@@ -28,7 +28,7 @@ function Footer() {
           <div className="social-icons">
 
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/bhawna-shukla"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -36,7 +36,7 @@ function Footer() {
             </a>
 
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://www.linkedin.com/in/bhawna-shukla-860b83305/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -44,14 +44,18 @@ function Footer() {
             </a>
 
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://linkedin.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaInstagram />
             </a>
 
-            <a href="mailto:yourgmail@gmail.com">
+            <a
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=bhawna1509bs@gmail.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <FaEnvelope />
             </a>
 

@@ -61,7 +61,7 @@
 //           repeat: Infinity
 //         }}
 //       />
-     
+
 
 // <motion.div
 //   initial={{ opacity: 0, x: -100 }}
@@ -130,12 +130,18 @@ function Hero() {
         />
 
         <p>
-          BCA Graduate | MERN Developer
+          Building Scalable Web Applications with MERN Stack | Exploring Data Analytics
         </p>
-        
-       
 
-        <button>Download Resume</button>
+
+
+        {/* <a href="/resume.pdf" download className="resume-btn">
+          Download Resume
+        </a> */}
+
+         <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+  <button>View Resume</button>
+</a> 
 
       </motion.div>
 
